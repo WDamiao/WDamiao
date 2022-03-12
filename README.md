@@ -1,3 +1,6 @@
+<style>
+  font-size: 30px;
+  </style>
 - 👋 Hi, I’m @WDamiao
 - 👀 I’m interested in learning how to code and improve every day ...
 - 🌱 I’m currently learning Front-End...
